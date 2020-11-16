@@ -1,4 +1,4 @@
-//author: ehsan nayernia, amirhosein ataei
+//author: ehsan nayernia-amirhosein ataei
 
 import java.util.LinkedList;
 import java.util.List;
